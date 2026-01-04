@@ -1,0 +1,1 @@
+export const baseUrl="https://expense-tracker-server-4i2e.onrender.com"
